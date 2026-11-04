@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 140" role="img" aria-labelledby="title description">
+  <title id="title">VAISHNAV - The Joinery V</title>
+  <desc id="description">Cabinet doors frame a warm wood V-shaped joinery detail.</desc>
+  <rect x="14" y="17" width="106" height="106" rx="10" fill="#233e2f"/>
+  <rect x="33" y="34" width="68" height="70" rx="2" fill="none" stroke="#faf7f2" stroke-width="2.4"/>
+  <path d="M67 35v68" stroke="#dfb288" stroke-width="1.4"/>
+  <path d="M46 52l21 35 21-35" fill="none" stroke="#c6854d" stroke-width="4.5" stroke-linecap="square"/>
+  <path d="M50 96h34" stroke="#faf7f2" stroke-width="2"/>
+  <text x="151" y="57" fill="#1b1612" font-family="Georgia,serif" font-size="38" font-weight="700" letter-spacing="2">VAISHNAV</text>
+  <path d="M153 69h73" stroke="#c6854d" stroke-width="2"/>
+  <text x="151" y="94" fill="#233e2f" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1.1">FURNITURE WORKS &amp; INTERIOR DESIGNS</text>
+  <text x="151" y="119" fill="#66635e" font-family="Georgia,serif" font-size="17" font-style="italic">Crafted to fit. Made to feel like home.</text>
+</svg>

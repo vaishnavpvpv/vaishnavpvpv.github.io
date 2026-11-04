@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 140" role="img" aria-labelledby="title description">
+  <title id="title">VAISHNAV - The Woodgrain V</title>
+  <desc id="description">A flowing V monogram sits inside simplified woodgrain rings.</desc>
+  <rect x="14" y="17" width="106" height="106" rx="53" fill="#233e2f"/>
+  <path d="M32 70c0-19 16-35 35-35s35 16 35 35-16 35-35 35S32 89 32 70zM43 70c0-13 11-24 24-24s24 11 24 24-11 24-24 24-24-11-24-24z" fill="none" stroke="#dfb288" stroke-width="1.8"/>
+  <path d="M49 57l18 30 18-30" fill="none" stroke="#c6854d" stroke-width="4.5" stroke-linecap="square"/>
+  <text x="151" y="57" fill="#1b1612" font-family="Georgia,serif" font-size="38" font-weight="700" letter-spacing="2">VAISHNAV</text>
+  <path d="M153 69h73" stroke="#c6854d" stroke-width="2"/>
+  <text x="151" y="94" fill="#233e2f" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1.1">FURNITURE WORKS &amp; INTERIOR DESIGNS</text>
+  <text x="151" y="119" fill="#66635e" font-family="Georgia,serif" font-size="17" font-style="italic">Made for your space.</text>
+</svg>

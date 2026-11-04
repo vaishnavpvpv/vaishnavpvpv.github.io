@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 140" role="img" aria-labelledby="title description">
+  <title id="title">VAISHNAV - The Carpenter's Square</title>
+  <desc id="description">A carpenter's square and measurement ticks form a clean geometric mark.</desc>
+  <rect x="14" y="17" width="106" height="106" rx="10" fill="#233e2f"/>
+  <path d="M38 37v65h59" fill="none" stroke="#faf7f2" stroke-width="6" stroke-linecap="square"/>
+  <path d="M50 46h10M50 58h7M50 70h10M50 82h7M69 91v-9M81 91v-6" fill="none" stroke="#dfb288" stroke-width="2"/>
+  <path d="M61 56l18 29 18-29" fill="none" stroke="#c6854d" stroke-width="4" stroke-linecap="square"/>
+  <text x="151" y="57" fill="#1b1612" font-family="Georgia,serif" font-size="38" font-weight="700" letter-spacing="2">VAISHNAV</text>
+  <path d="M153 69h73" stroke="#c6854d" stroke-width="2"/>
+  <text x="151" y="94" fill="#233e2f" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1.1">FURNITURE WORKS &amp; INTERIOR DESIGNS</text>
+  <text x="151" y="119" fill="#66635e" font-family="Georgia,serif" font-size="17" font-style="italic">Custom woodwork, made with care.</text>
+</svg>
